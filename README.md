@@ -23,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0619-biggest-single-number) |
+| [1084-sales-analysis-iii](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
