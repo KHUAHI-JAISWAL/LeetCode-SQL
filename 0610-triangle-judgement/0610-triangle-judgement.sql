@@ -1,12 +1,16 @@
 /* Write your PL/SQL query statement below */
-SELECT x,
-       y,
-       z,
-       CASE
-           WHEN x + y > z
-            AND x + z > y
-            AND y + z > x
-           THEN 'Yes'
-           ELSE 'No'
-       END AS triangle
-FROM Triangle;
+select x,
+        y,
+        z,
+        case 
+        when x+y>z
+        and y+z >x
+        and x+Z >y
+        then 'Yes'
+        else 'No'
+    end as triangle
+from triangle;
+
+ 
+
+
