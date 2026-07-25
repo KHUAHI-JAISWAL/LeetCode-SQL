@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0620-not-boring-movies) |
 | [1084-sales-analysis-iii](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1084-sales-analysis-iii) |
 | [1393-capital-gainloss](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1393-capital-gainloss) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1978-employees-whose-manager-left-the-company) |
