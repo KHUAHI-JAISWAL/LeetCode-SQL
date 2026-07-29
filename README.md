@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1084-sales-analysis-iii) |
 | [1393-capital-gainloss](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1393-capital-gainloss) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1978-employees-whose-manager-left-the-company) |
