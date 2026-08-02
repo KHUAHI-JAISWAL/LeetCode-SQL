@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1179-reformat-department-table) |
 | [1393-capital-gainloss](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1393-capital-gainloss) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
