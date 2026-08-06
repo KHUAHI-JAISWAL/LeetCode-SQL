@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
