@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
