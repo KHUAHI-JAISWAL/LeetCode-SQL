@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1251-average-selling-price) |
 | [1393-capital-gainloss](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1393-capital-gainloss) |
+| [1683-invalid-tweets](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1683-invalid-tweets) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
 |  |
