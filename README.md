@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1920-build-array-from-permutation) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
