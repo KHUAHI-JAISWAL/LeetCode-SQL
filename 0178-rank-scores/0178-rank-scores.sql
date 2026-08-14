@@ -1,5 +1,4 @@
 /* Write your PL/SQL query statement below */
-SELECT
-    score,
-    DENSE_RANK() OVER (ORDER BY score DESC) AS rank
-FROM Scores;
+select score,
+          dense_rank() over( order by score DESC) as rank 
+          from scores;
