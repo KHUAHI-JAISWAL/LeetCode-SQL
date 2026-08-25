@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1920-build-array-from-permutation) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
