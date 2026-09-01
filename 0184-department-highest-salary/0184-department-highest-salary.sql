@@ -1,17 +1,23 @@
 /* Write your PL/SQL query statement below */
-SELECT
-    d.name AS Department,
-    e.name AS Employee,
-    e.salary AS Salary
-FROM Employee e
-INNER JOIN Department d
-    ON e.departmentId = d.id
-INNER JOIN
-(
-    SELECT departmentId,
-           MAX(salary) AS max_salary
-    FROM Employee
-    GROUP BY departmentId
-) m
-ON e.departmentId = m.departmentId
-AND e.salary = m.max_salary;
+select department, 
+       employee,
+       salary
+
+from( 
+    select d.name as department,
+           e.name as employee,
+           e.salary,
+           rank() over(
+                partition by e.departmentID
+                order by e.salary DESC
+           ) as salary_rank
+
+    from employee e
+    join department d
+     on e.departmentId = d.id
+           
+        
+
+           
+)
+where salary_rank = 1;
