@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1179-reformat-department-table) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1327-list-the-products-ordered-in-a-period) |
