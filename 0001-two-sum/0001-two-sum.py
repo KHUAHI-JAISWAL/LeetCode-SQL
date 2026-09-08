@@ -1,17 +1,27 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
-        seen={}
-        for i in range(len(nums)):
-            diff= target-nums[i]
+
+        arr= [(nums[i],i) for i in range(len(nums))]
+
+        arr.sort()
+
+        left = 0
+        right = len(arr)-1
+
+        while left < right:
 
 
-            if diff in seen:
-                return [seen[diff],i]
+            total = arr[left][0]+arr[right][0]
+
+            if total == target:
+                return arr[left][1],arr[right][1]
+
+            elif total < target:
+                left +=1
+
+            else:
+                right-=1
 
 
-
-
-            
-                 
-            seen[nums[i]]=i
+        
