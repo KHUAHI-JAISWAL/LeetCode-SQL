@@ -2,26 +2,15 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
 
-        arr= [(nums[i],i) for i in range(len(nums))]
 
-        arr.sort()
+        for i in range(len(nums)):
 
-        left = 0
-        right = len(arr)-1
+            for j in range(i+1, len(nums)):
 
-        while left < right:
+                if nums[i]+nums[j] == target:
 
-
-            total = arr[left][0]+arr[right][0]
-
-            if total == target:
-                return arr[left][1],arr[right][1]
-
-            elif total < target:
-                left +=1
-
-            else:
-                right-=1
+                     return [i,j]
 
 
-        
+
+       
