@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0283-move-zeroes) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1929-concatenation-of-array) |
