@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1484-group-sold-products-by-the-date) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1978-employees-whose-manager-left-the-company) |
