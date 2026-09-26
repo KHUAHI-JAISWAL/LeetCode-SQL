@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1470-shuffle-the-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0001-two-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
