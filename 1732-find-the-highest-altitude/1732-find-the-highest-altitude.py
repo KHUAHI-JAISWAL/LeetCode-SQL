@@ -1,0 +1,11 @@
+class Solution:
+    def largestAltitude(self, gain: list[int]) -> int:
+        altitude = 0
+        max_altitude = 0
+
+        for x in gain:
+            altitude += x
+            max_altitude = max(max_altitude, altitude)
+
+        return max_altitude
+        
