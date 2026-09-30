@@ -1,5 +1,23 @@
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
+
+
+
+        #Brute Force: Har possible character operation/permutation try karke check karo → Time: O(n!), Space: O(n).
+        #Best: Frequency map banao, unique characters aur sorted frequencies compare karo → Time: O(n log n), Space: O(n).
+
+
+
+
+
+
+
+
+
+
+
+
+
         freq1 = {}
         freq2 = {}
 
