@@ -21,11 +21,7 @@ class Solution:
                 ans += row_count[col]
 
         return ans
-
-
-
-
-       #Brute Force: Har row ko har column se element-by-element compare karo → Time: O(n³), Space: O(1)
-       #best: Rows ki frequency HashMap mein store karke har column ko tuple bana kar lookup karo → Time: O(n²), Space: O(n²)
+#Brute Force: Har row ko har column se element-by-element compare karo → Time: O(n³), Space: O(1)
+   #best: Rows ki frequency HashMap mein store karke har column ko tuple bana kar lookup karo → Time: O(n²), Space: O(n²)
 
        
