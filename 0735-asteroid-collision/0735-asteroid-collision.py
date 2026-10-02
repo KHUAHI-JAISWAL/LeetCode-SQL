@@ -1,6 +1,9 @@
 class Solution:
     def asteroidCollision(self, asteroids: list[int]) -> list[int]:
 
+        #Brute Force: Har collision ke baad array ko repeatedly scan/remove karke asteroids collide karao → Time: O(n²), Space: O(n)
+        #Best: Stack use karke har asteroid ko previous opposite-direction asteroid se collide karao → Time: O(n), Space: O(n)
+
         stack = []
 
         for asteroid in asteroids:
