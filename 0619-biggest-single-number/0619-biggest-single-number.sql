@@ -1,14 +1,9 @@
 /* Write your PL/SQL query statement below */
-Select (
-    select max(num)
-    from (
-        select num
-        from mynumbers
-        group by num
-        having count(*) = 1
-    )
-) as num
-from dual;
-
-
+SELECT MAX(num) AS num
+FROM (
+    SELECT num
+    FROM MyNumbers
+    GROUP BY num
+    HAVING COUNT(num) = 1
+);
     
