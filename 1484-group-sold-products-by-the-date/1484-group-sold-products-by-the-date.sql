@@ -1,12 +1,9 @@
-/* Write your PL/SQL query statement below */
-SELECT
-    TO_CHAR(sell_date, 'YYYY-MM-DD') AS sell_date,
-    COUNT(product) AS num_sold,
-    LISTAGG(product, ',')
-        WITHIN GROUP (ORDER BY product) AS products
-FROM (
-    SELECT DISTINCT sell_date, product
-    FROM Activities
-)
-GROUP BY sell_date
-ORDER BY sell_date;
+# Write your MySQL query statement below
+
+select sell_date,
+       count(distinct product) as num_sold,
+       group_concat(distinct product order by product) as products
+from activities
+group by sell_date
+order by sell_date;
+
