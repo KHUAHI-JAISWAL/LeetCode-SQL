@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2542-maximum-subsequence-score) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/2542-maximum-subsequence-score) |
 ## Sliding Window
 |  |
