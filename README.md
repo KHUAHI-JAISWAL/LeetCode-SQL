@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0216-combination-sum-iii](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0334-increasing-triplet-subsequence) |
@@ -385,4 +386,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0216-combination-sum-iii](https://github.com/KHUAHI-JAISWAL/LeetCode-SQL/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
