@@ -1,8 +1,8 @@
 /* Write your PL/SQL query statement below */
-select e.name 
+select e.name
 from employee e
-join employee e1
-on e.id = e1.managerid
-group by e.name ,
-         e.id
-having count(e1.id) >=5;
+join employee a
+on e.id = a.managerId
+group by e.id ,
+         e.name
+having count(e.id) >=5;
