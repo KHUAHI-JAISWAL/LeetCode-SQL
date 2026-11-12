@@ -1,20 +1,17 @@
-/* Write your PL/SQL query statement below */
-SELECT ROUND(
-       (
-        SELECT COUNT(DISTINCT a.player_id)
-        FROM Activity a
-        JOIN (
-            SELECT player_id,
-                   MIN(event_date) AS first_login
-            FROM Activity
-            GROUP BY player_id
-        ) b
-        ON a.player_id = b.player_id
-        AND a.event_date = b.first_login + 1
-       )
-       /
-       (SELECT COUNT(DISTINCT player_id)
-        FROM Activity),
-       2
-       ) AS fraction
-FROM dual;
+# Write your MySQL query statement below
+select round
+          (count(distinct b.player_id)/
+          count(distinct a.player_id),
+          2
+          ) as fraction
+from
+(select
+        player_id , 
+        min(event_date) as first_login
+        
+from activity
+group by player_id
+) a
+left join activity  b
+on a.player_id = b.player_id
+and b.event_date = date_add(a.first_login,interval 1 day)
