@@ -1,9 +1,18 @@
-/* Write your PL/SQL query statement below */
+# Write your MySQL query statement below
 
-select product_id,year as first_year , quantity , price
-from(
-    select product_id ,  year , quantity, price,
-    rank() over(partition by product_id order by year) as rnk
-    from sales
-
-)where rnk = 1;
+SELECT product_id,
+       year AS first_year,
+       quantity,
+       price
+FROM (
+    SELECT product_id,
+           year,
+           quantity,
+           price,
+           RANK() OVER (
+               PARTITION BY product_id
+               ORDER BY year
+           ) AS rnk
+    FROM Sales
+) AS t
+WHERE rnk = 1;
